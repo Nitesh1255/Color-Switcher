@@ -1,6 +1,6 @@
 # Color Switcher
 
-![Color Switcher](image/switcher.png)
+![switcher](https://github.com/Nitesh1255/Color-Switcher/assets/119393883/cdc21d07-9427-4de8-94e1-07de1c69999f)
 ### This project is a simple Color Switcher implemented using HTML, CSS, and JavaScript. Users can click on color buttons to change the background color dynamically.
 ### Usage
 #### Simply open the index.html file in a web browser, and you will see a Color Switcher interface with various color buttons. Click on any button to change the background color dynamically.
