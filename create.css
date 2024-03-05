@@ -1,0 +1,9 @@
+body{background-color: #696b69; color: white;}
+.switcher{text-align: center;}
+.button{width: 100px;height: 100px;display:inline-block;}
+#grey{background-color: grey;}
+#white{background-color: white;}
+#black{background-color: black;}
+#purple{background-color: #8a0ab1;}
+a{border: 5px solid white;color: #ffffff;padding: 10px 30px;text-decoration: none; background-color: #212121;font-weight: bolder;
+    font-size: large;border-radius: 15px;filter: drop-shadow(1px 1px 5px rgb(56, 56, 145));} 
